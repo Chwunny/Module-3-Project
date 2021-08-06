@@ -1,0 +1,11 @@
+
+- How does the internet work?
+    The internet is a global network of billions of computers and electronic devices. 
+    A network is a set of computer that can intercommunicate. The internet is made up of smaller local networks.
+    Because of this, there is a essentially an infinite amount of information accessible through the internet.
+    The web and internet are different, the web is a way to view and share information over the internet.
+
+- What happens when you click a link?
+    When you click on a link your browser takes that URL and breaks it into smaller pieces. Protocol, hostname, port, and resource.
+    It uses these smaller pieces to get an IP address for the website the link is associated with. Your browser then opens a TCP connection to the site over Internet Protocol. It speaks to the HTTP server to get the web page in HTML which it then renders. 
+    This all happens in a matter of seconds or even milliseconds.
